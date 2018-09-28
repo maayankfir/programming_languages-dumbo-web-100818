@@ -10,5 +10,5 @@ def reformat_languages(languages)
     end
   end
 end
-new_hash[name][:programming_languages] << programming_languages 
+new_hash[name][:programming_languages] << programming_languages
 end
