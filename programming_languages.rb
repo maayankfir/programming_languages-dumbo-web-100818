@@ -8,7 +8,7 @@ def reformat_languages(languages)
       new_hash[name] = type
       new_hash[name][:programming_languages] = []
 end
-new_hash[name][:programming_languages] << programming_languages 
+new_hash[name][:programming_languages] << programming_languages
 end
 end
 end
